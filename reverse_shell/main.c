@@ -23,6 +23,5 @@ int main(void) {
     }
     
     execve("/bin/sh", NULL, NULL);
-    close(fd);
     EXIT_SUCCESS;
 }
