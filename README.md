@@ -11,6 +11,29 @@
     	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
 </p>
 
+## Samples & Concepts
+Samples & Concepts  |
+-------- |
+Printing text to the screen |
+Operators |
+Functions |
+Conditional Statements |
+Working with strings |
+TCP Echo Server |	
+Bind-shell |
+Reverse-shell |
+Structs |
+Unions |
+Pointers |
+Memory allocation |
+Memset |
+Executing system commands |
+Reading from files |
+VLA |
+XOR Encryption |
+While Loops |
+For Loops |
+
 ## Credits
 ```
 https://github.com/0x1CA3
