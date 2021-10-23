@@ -14,6 +14,7 @@
 ## Samples & Concepts
 Samples & Concepts  |
 -------- |
+Linked Lists |
 Printing text to the screen |
 Operators |
 Functions |
